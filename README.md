@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name's Michael and I'm currently an English teacher living in Barcelona. I'm here to improve my skills and hopefully eventually find a new career.
+
 <!--
 **MALumb92/MALumb92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
